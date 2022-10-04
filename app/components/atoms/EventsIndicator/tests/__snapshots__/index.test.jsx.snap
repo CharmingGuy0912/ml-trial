@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventsIndicator should match the snapshot 1`] = `
+<div
+  class="flex justify-center h-[3px] gap-[3px] px-px overflow-hidden"
+>
+  <div
+    class="max-w-[10px] min-w-[3px] flex-1 rounded-full bg-green-medium"
+  />
+</div>
+`;

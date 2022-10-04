@@ -1,0 +1,1058 @@
+{
+  "app.hmr": {
+    "defaultMessage": "Edit {file} and save to test HMR updates.",
+    "description": "hmr description"
+  },
+  "app.notFound": {
+    "defaultMessage": "404 - not found",
+    "description": "not found message"
+  },
+  "atoms.avatar.photoOf": {
+    "defaultMessage": "Photo von {name}"
+  },
+  "atoms.date-field-frame.toggle": {
+    "defaultMessage": "Kalendar ein-/ausschalten",
+    "description": "aria label toggle calendar button"
+  },
+  "atoms.date-picker.date": {
+    "defaultMessage": "TT.MM.JJJJ",
+    "description": "placeholder for format dd.MM.yyyy"
+  },
+  "atoms.toast.action": {
+    "defaultMessage": "Action"
+  },
+  "atoms.toast.alert": {
+    "defaultMessage": "alert"
+  },
+  "atoms.toast.error": {
+    "defaultMessage": "Error or Warning"
+  },
+  "atoms.toast.success": {
+    "defaultMessage": "Info"
+  },
+  "common-messages.apply": {
+    "defaultMessage": "Anwenden",
+    "description": "cta to apply something, e.g. a date picker"
+  },
+  "common-messages.ascending": {
+    "defaultMessage": "Aufsteigend"
+  },
+  "common-messages.cancel": {
+    "defaultMessage": "Abbrechen",
+    "description": "cta to cancel something, e.g. a modal"
+  },
+  "common-messages.delete": {
+    "defaultMessage": "Löschen",
+    "description": "cta to delete something"
+  },
+  "common-messages.descending": {
+    "defaultMessage": "Absteigend"
+  },
+  "common-messages.filter": {
+    "defaultMessage": "Filtern"
+  },
+  "common-messages.loading": {
+    "defaultMessage": "Wird geladen...",
+    "description": "status description for screen readers only"
+  },
+  "common-messages.required": {
+    "defaultMessage": "Pflichtfeld",
+    "description": "required field"
+  },
+  "common-messages.save": {
+    "defaultMessage": "Speichern",
+    "description": "cta to save changes"
+  },
+  "common-messages.search": {
+    "defaultMessage": "Suchen ..."
+  },
+  "common-messages.sort": {
+    "defaultMessage": "Sortieren"
+  },
+  "common-messages.today": {
+    "defaultMessage": "Heute"
+  },
+  "molecules.calendar.nextMonth": {
+    "defaultMessage": "nächstes Monat",
+    "description": "aria label nextMonth button"
+  },
+  "molecules.calendar.prevMonth": {
+    "defaultMessage": "vorheriges Monat",
+    "description": "aria label prevMonth button"
+  },
+  "molecules.calendar.selectMonth": {
+    "defaultMessage": "Monat auswählen"
+  },
+  "molecules.calendar.selectYear": {
+    "defaultMessage": "Jahr auswählen"
+  },
+  "molecules.date-cycle-picker.from": {
+    "defaultMessage": "von",
+    "description": "aria label from input"
+  },
+  "molecules.date-cycle-picker.next": {
+    "defaultMessage": "nächste Woche",
+    "description": "aria label next button"
+  },
+  "molecules.date-cycle-picker.prev": {
+    "defaultMessage": "vorherige Woche",
+    "description": "aria label prev button"
+  },
+  "molecules.date-cycle-picker.to": {
+    "defaultMessage": "bis",
+    "description": "aria label to input"
+  },
+  "molecules.date-picker.date": {
+    "defaultMessage": "Datum",
+    "description": "aria label date input"
+  },
+  "molecules.event-location-select.locationNotAvailable": {
+    "defaultMessage": "N/A",
+    "description": "information that no location info is available"
+  },
+  "molecules.event-participants-form.addGuestPlayer": {
+    "defaultMessage": "Gastspieler hinzufügen",
+    "description": "Button text to add a guest player"
+  },
+  "molecules.event-participants-form.guestPlayerSearch": {
+    "defaultMessage": "Suchen...",
+    "description": "Placeholder text to search for a guest player in the dropdown"
+  },
+  "molecules.event-participants.participantsCounts": {
+    "defaultMessage": "{fieldCount}+{keeperCount}"
+  },
+  "molecules.event-title.awayGame": {
+    "defaultMessage": "Auswärtsspiel"
+  },
+  "molecules.event-title.homeGame": {
+    "defaultMessage": "Heimspiel"
+  },
+  "molecules.event-title.other": {
+    "defaultMessage": "Sonstiges"
+  },
+  "molecules.event-title.profileTraining": {
+    "defaultMessage": "Profiltraining"
+  },
+  "molecules.event-title.tournament": {
+    "defaultMessage": "Turnier"
+  },
+  "molecules.event-title.training": {
+    "defaultMessage": "Training"
+  },
+  "molecules.event-title.videoSession": {
+    "defaultMessage": "Videoanalyse"
+  },
+  "molecules.event-type-select.eventLabel": {
+    "defaultMessage": "Ereignis",
+    "description": "the event select label"
+  },
+  "molecules.event-type-select.profileTraining": {
+    "defaultMessage": "Profiltraining"
+  },
+  "molecules.footer.learn": {
+    "defaultMessage": "React Lernen",
+    "description": "learn react link text"
+  },
+  "molecules.footer.viteDocs": {
+    "defaultMessage": "Vite Docs",
+    "description": "vite docs link text"
+  },
+  "molecules.time-input.invalidTimeError": {
+    "defaultMessage": "Die angegebene Zeit ist nicht gültig",
+    "description": "invalid time"
+  },
+  "molecules.time-input.minMaxError": {
+    "defaultMessage": "Die Zeit muss zwischen {min} und {max} Uhr sein",
+    "description": "wrong time"
+  },
+  "molecules.training-exercise.exerciseTitle": {
+    "defaultMessage": "{number}. {title}"
+  },
+  "molecules.training-modules.block": {
+    "defaultMessage": "Baustein"
+  },
+  "molecules.training-modules.focus": {
+    "defaultMessage": "Fokus"
+  },
+  "molecules.training-modules.phase": {
+    "defaultMessage": "Spielphase"
+  },
+  "molecules.training-modules.subCharacteristic": {
+    "defaultMessage": "Submerkmal"
+  },
+  "molecules.training-modules.trainingModules": {
+    "defaultMessage": "Ausbildungsschwerpunkte"
+  },
+  "organisms.authentication.loggedIn": {
+    "defaultMessage": "angemeldet",
+    "description": "logged in"
+  },
+  "organisms.authentication.notLoggedIn": {
+    "defaultMessage": "Sie sind nicht {loggedIn}.",
+    "description": "You are not {loggedIn}"
+  },
+  "organisms.counter.count": {
+    "defaultMessage": "Zähler: {count}",
+    "description": "count output"
+  },
+  "organisms.counter.reset": {
+    "defaultMessage": "Zurücksetzen",
+    "description": "reset cta"
+  },
+  "organisms.create-event-modal.date": {
+    "defaultMessage": "Datum",
+    "description": "label for date"
+  },
+  "organisms.create-event-modal.durationQuickSelect": {
+    "defaultMessage": "Dauer Schnellauswahl",
+    "description": "label for duration quick selection"
+  },
+  "organisms.create-event-modal.endTimeLabel": {
+    "defaultMessage": "Ende",
+    "description": "the assigned end time"
+  },
+  "organisms.create-event-modal.noteLabel": {
+    "defaultMessage": "Bemerkung",
+    "description": "the note input label"
+  },
+  "organisms.create-event-modal.recurringEvent": {
+    "defaultMessage": "Serientermin",
+    "description": "button text for recurring event"
+  },
+  "organisms.create-event-modal.secondSpaceLabel": {
+    "defaultMessage": "Platz 2",
+    "description": "the second assigned space label"
+  },
+  "organisms.create-event-modal.secondSpaceRequestLabel": {
+    "defaultMessage": "Platzwunsch 2",
+    "description": "the second space request select label"
+  },
+  "organisms.create-event-modal.spaceLabel": {
+    "defaultMessage": "Platz",
+    "description": "the assigned space label"
+  },
+  "organisms.create-event-modal.spaceRequestLabel": {
+    "defaultMessage": "Platzwunsch",
+    "description": "the space request select label"
+  },
+  "organisms.create-event-modal.startTimeLabel": {
+    "defaultMessage": "Start",
+    "description": "the assigned start time"
+  },
+  "organisms.create-event-modal.title": {
+    "defaultMessage": "Ereignis hinzufügen",
+    "description": "title of the create-event modal"
+  },
+  "organisms.create-exercise-modal.ageGroups": {
+    "defaultMessage": "Altersbereiche"
+  },
+  "organisms.create-exercise-modal.bestPractice": {
+    "defaultMessage": "Best Practice Übung"
+  },
+  "organisms.create-exercise-modal.created": {
+    "defaultMessage": "Übung wurde erfolgreich hinzugefügt."
+  },
+  "organisms.create-exercise-modal.creatingError": {
+    "defaultMessage": "Beim Erstellen der Übung ist leider ein Fehler aufgetreten."
+  },
+  "organisms.create-exercise-modal.creator": {
+    "defaultMessage": "Autor"
+  },
+  "organisms.create-exercise-modal.description": {
+    "defaultMessage": "Beschreibung"
+  },
+  "organisms.create-exercise-modal.duplicateError": {
+    "defaultMessage": "Übung kann nicht erstellt werden, da der Titel nicht eindeutig ist."
+  },
+  "organisms.create-exercise-modal.duration": {
+    "defaultMessage": "Dauer"
+  },
+  "organisms.create-exercise-modal.exercise": {
+    "defaultMessage": "Übung"
+  },
+  "organisms.create-exercise-modal.files": {
+    "defaultMessage": "Dateien"
+  },
+  "organisms.create-exercise-modal.title": {
+    "defaultMessage": "Übung hinzufügen",
+    "description": "title of the create-exercise modal"
+  },
+  "organisms.create-exercise-modal.titleLabel": {
+    "defaultMessage": "Titel"
+  },
+  "organisms.create-exercise-modal.titlePlaceholder": {
+    "defaultMessage": "Eindeutiger Titel"
+  },
+  "organisms.create-exercise-modal.uploadImage": {
+    "defaultMessage": "Bild hochladen"
+  },
+  "organisms.create-injury-modal.components.body-region-select.label": {
+    "defaultMessage": "Körperregion"
+  },
+  "organisms.create-injury-modal.components.body-region-select.placeholder": {
+    "defaultMessage": "Körperregion auswählen"
+  },
+  "organisms.create-injury-modal.components.category-radio-group.disease": {
+    "defaultMessage": "Krankheit"
+  },
+  "organisms.create-injury-modal.components.category-radio-group.injury": {
+    "defaultMessage": "Verletzung"
+  },
+  "organisms.create-injury-modal.components.category-radio-group.label": {
+    "defaultMessage": "Kategorie"
+  },
+  "organisms.create-injury-modal.components.cause-radio-group.label": {
+    "defaultMessage": "Ursache"
+  },
+  "organisms.create-injury-modal.components.cause-radio-group.overload": {
+    "defaultMessage": "Überbelastung"
+  },
+  "organisms.create-injury-modal.components.cause-radio-group.trauma": {
+    "defaultMessage": "Trauma"
+  },
+  "organisms.create-injury-modal.components.contact-injury-radio-group.direct": {
+    "defaultMessage": "Ja - direkt"
+  },
+  "organisms.create-injury-modal.components.contact-injury-radio-group.indirect": {
+    "defaultMessage": "Ja - indirekt"
+  },
+  "organisms.create-injury-modal.components.contact-injury-radio-group.label": {
+    "defaultMessage": "Kontaktverletzung"
+  },
+  "organisms.create-injury-modal.components.contact-injury-radio-group.no": {
+    "defaultMessage": "Nein"
+  },
+  "organisms.create-injury-modal.components.form.bodyRegion": {
+    "defaultMessage": "Körperregion"
+  },
+  "organisms.create-injury-modal.components.form.comment": {
+    "defaultMessage": "Bemerkung"
+  },
+  "organisms.create-injury-modal.components.form.commentPlaceholder": {
+    "defaultMessage": "Bemerkung eingeben"
+  },
+  "organisms.create-injury-modal.components.form.diagnosis": {
+    "defaultMessage": "Diagnose"
+  },
+  "organisms.create-injury-modal.components.form.diagnosisPlaceholder": {
+    "defaultMessage": "Diagnose eingeben"
+  },
+  "organisms.create-injury-modal.components.form.duration": {
+    "defaultMessage": "Belastungsdauer"
+  },
+  "organisms.create-injury-modal.components.form.imaging": {
+    "defaultMessage": "Bildgebung"
+  },
+  "organisms.create-injury-modal.components.form.results": {
+    "defaultMessage": "Befunde"
+  },
+  "organisms.create-injury-modal.components.icd-select.label": {
+    "defaultMessage": "ICP-10-Code"
+  },
+  "organisms.create-injury-modal.components.icd-select.placeholder": {
+    "defaultMessage": "ICP-10-Code auswählen"
+  },
+  "organisms.create-injury-modal.components.injury-time-select.label": {
+    "defaultMessage": "Zeitpunkt"
+  },
+  "organisms.create-injury-modal.components.injury-time-select.placeholder": {
+    "defaultMessage": "Zeitpunkt auswählen"
+  },
+  "organisms.create-injury-modal.components.injury-type-select.label": {
+    "defaultMessage": "Art der Verletzung"
+  },
+  "organisms.create-injury-modal.components.injury-type-select.placeholder": {
+    "defaultMessage": "Art der Verletzung auswählen"
+  },
+  "organisms.create-injury-modal.components.localization-radio-group.back": {
+    "defaultMessage": "Hinten"
+  },
+  "organisms.create-injury-modal.components.localization-radio-group.front": {
+    "defaultMessage": "Vorne"
+  },
+  "organisms.create-injury-modal.components.localization-radio-group.inside": {
+    "defaultMessage": "Innen"
+  },
+  "organisms.create-injury-modal.components.localization-radio-group.label": {
+    "defaultMessage": "Lokalisation"
+  },
+  "organisms.create-injury-modal.components.localization-radio-group.outside": {
+    "defaultMessage": "Außen"
+  },
+  "organisms.create-injury-modal.components.previous-injury-select.label": {
+    "defaultMessage": "Vorverletzung"
+  },
+  "organisms.create-injury-modal.components.previous-injury-select.placeholder": {
+    "defaultMessage": "Vorverletzung auswählen"
+  },
+  "organisms.create-injury-modal.components.side-radio-group.central": {
+    "defaultMessage": "Zentral/Bilateral"
+  },
+  "organisms.create-injury-modal.components.side-radio-group.label": {
+    "defaultMessage": "Seite"
+  },
+  "organisms.create-injury-modal.components.side-radio-group.left": {
+    "defaultMessage": "Links"
+  },
+  "organisms.create-injury-modal.components.side-radio-group.right": {
+    "defaultMessage": "Rechts"
+  },
+  "organisms.create-injury-modal.components.status-radio-group.label": {
+    "defaultMessage": "Status"
+  },
+  "organisms.create-injury-modal.title": {
+    "defaultMessage": "Verletzung hinzufügen",
+    "description": "title of the create-injury modal"
+  },
+  "organisms.create-injury-modal.visualize": {
+    "defaultMessage": "Visualisieren"
+  },
+  "organisms.create-team-event-modal.date": {
+    "defaultMessage": "Datum",
+    "description": "label for date"
+  },
+  "organisms.create-team-event-modal.durationQuickSelect": {
+    "defaultMessage": "Dauer Schnellauswahl",
+    "description": "label for duration quick selection"
+  },
+  "organisms.create-team-event-modal.endTimeLabel": {
+    "defaultMessage": "Ende",
+    "description": "the assigned end time"
+  },
+  "organisms.create-team-event-modal.noteLabel": {
+    "defaultMessage": "Bemerkung",
+    "description": "the note input label"
+  },
+  "organisms.create-team-event-modal.recurringEvent": {
+    "defaultMessage": "Serientermin",
+    "description": "button text for recurring event"
+  },
+  "organisms.create-team-event-modal.secondSpaceLabel": {
+    "defaultMessage": "Platz 2",
+    "description": "the second assigned space label"
+  },
+  "organisms.create-team-event-modal.secondSpaceRequestLabel": {
+    "defaultMessage": "Platzwunsch 2",
+    "description": "the second space request select label"
+  },
+  "organisms.create-team-event-modal.spaceLabel": {
+    "defaultMessage": "Platz",
+    "description": "the assigned space label"
+  },
+  "organisms.create-team-event-modal.spaceRequestLabel": {
+    "defaultMessage": "Platzwunsch",
+    "description": "the space request select label"
+  },
+  "organisms.create-team-event-modal.startTimeLabel": {
+    "defaultMessage": "Start",
+    "description": "the assigned start time"
+  },
+  "organisms.create-team-event-modal.teamLabel": {
+    "defaultMessage": "Team",
+    "description": "the event team label"
+  },
+  "organisms.create-team-event-modal.title": {
+    "defaultMessage": "Ereignis hinzufügen",
+    "description": "title of the create-event modal"
+  },
+  "organisms.create-training-module-modal.analysis-group-select.group1": {
+    "defaultMessage": "Gruppe 1"
+  },
+  "organisms.create-training-module-modal.analysis-group-select.group2": {
+    "defaultMessage": "Gruppe 2"
+  },
+  "organisms.create-training-module-modal.analysis-group-select.group3": {
+    "defaultMessage": "Gruppe 3"
+  },
+  "organisms.create-training-module-modal.analysisGroupLabel": {
+    "defaultMessage": "Auswertungszuordnung"
+  },
+  "organisms.create-training-module-modal.analysisGroupPlaceholder": {
+    "defaultMessage": "Auswertungszuordnung auswählen"
+  },
+  "organisms.create-training-module-modal.descriptionLabel": {
+    "defaultMessage": "Prinzipien"
+  },
+  "organisms.create-training-module-modal.descriptionPlaceholder": {
+    "defaultMessage": "Prinzipien für Ausbildungsprinzip eingeben"
+  },
+  "organisms.create-training-module-modal.filesLabel": {
+    "defaultMessage": "Files"
+  },
+  "organisms.create-training-module-modal.focus-select.athletics": {
+    "defaultMessage": "Athletics"
+  },
+  "organisms.create-training-module-modal.focus-select.tactics": {
+    "defaultMessage": "Tactics"
+  },
+  "organisms.create-training-module-modal.focus-select.technique": {
+    "defaultMessage": "Technique"
+  },
+  "organisms.create-training-module-modal.focusLabel": {
+    "defaultMessage": "Fokus"
+  },
+  "organisms.create-training-module-modal.game-phase-select.gameAgainstBall": {
+    "defaultMessage": "Game against ball"
+  },
+  "organisms.create-training-module-modal.game-phase-select.gameWithBall": {
+    "defaultMessage": "Game with ball"
+  },
+  "organisms.create-training-module-modal.game-phase-select.switchBallLose": {
+    "defaultMessage": "Switch ball lose"
+  },
+  "organisms.create-training-module-modal.game-phase-select.switchBallWin": {
+    "defaultMessage": "Switch ball win"
+  },
+  "organisms.create-training-module-modal.gampePhaseLabel": {
+    "defaultMessage": "Spielphase"
+  },
+  "organisms.create-training-module-modal.nameLabel": {
+    "defaultMessage": "Baustein"
+  },
+  "organisms.create-training-module-modal.namePlaceholder": {
+    "defaultMessage": "Baustein eingeben"
+  },
+  "organisms.create-training-module-modal.scope-select.group": {
+    "defaultMessage": "Group"
+  },
+  "organisms.create-training-module-modal.scope-select.individual": {
+    "defaultMessage": "Individual"
+  },
+  "organisms.create-training-module-modal.scope-select.none": {
+    "defaultMessage": "None"
+  },
+  "organisms.create-training-module-modal.scope-select.team": {
+    "defaultMessage": "Team"
+  },
+  "organisms.create-training-module-modal.scopeLabel": {
+    "defaultMessage": "M/G/I"
+  },
+  "organisms.create-training-module-modal.subNameLabel": {
+    "defaultMessage": "Submerkmal"
+  },
+  "organisms.create-training-module-modal.subNamePlaceholder": {
+    "defaultMessage": "Submerkmal eingeben"
+  },
+  "organisms.create-training-module-modal.teamsLabel": {
+    "defaultMessage": "Teams"
+  },
+  "organisms.create-training-module-modal.teamsPlaceholder": {
+    "defaultMessage": "Teams auswählen"
+  },
+  "organisms.create-training-module-modal.title": {
+    "defaultMessage": "Ausbildungsprinzip hinzufügen",
+    "description": "title of the create-training-module modal"
+  },
+  "organisms.create-treatment-modal.components.form.anamnesis": {
+    "defaultMessage": "Anamnese"
+  },
+  "organisms.create-treatment-modal.components.form.anamnesisPlaceholder": {
+    "defaultMessage": "Anamnese eingeben"
+  },
+  "organisms.create-treatment-modal.components.form.medication": {
+    "defaultMessage": "Medikation"
+  },
+  "organisms.create-treatment-modal.components.form.medicationPlaceholder": {
+    "defaultMessage": "Medikation eingeben"
+  },
+  "organisms.create-treatment-modal.components.form.proceedings": {
+    "defaultMessage": "Weiteres Vorgehen"
+  },
+  "organisms.create-treatment-modal.components.form.proceedingsPlaceholder": {
+    "defaultMessage": "Weiteres Vorgehen eingeben"
+  },
+  "organisms.create-treatment-modal.components.form.results": {
+    "defaultMessage": "Befund"
+  },
+  "organisms.create-treatment-modal.components.form.resultsPlaceholder": {
+    "defaultMessage": "Befund eingeben"
+  },
+  "organisms.create-treatment-modal.components.form.treatment": {
+    "defaultMessage": "Behandlung"
+  },
+  "organisms.create-treatment-modal.components.form.treatmentPlaceholder": {
+    "defaultMessage": "Behandlung eingeben"
+  },
+  "organisms.create-treatment-modal.components.injury-select.label": {
+    "defaultMessage": "Verletzung"
+  },
+  "organisms.create-treatment-modal.components.injury-select.placeholder": {
+    "defaultMessage": "Verletzung auswählen"
+  },
+  "organisms.create-treatment-modal.components.region-table.bodyRegion": {
+    "defaultMessage": "Körperbereich"
+  },
+  "organisms.create-treatment-modal.components.region-table.localization": {
+    "defaultMessage": "Lok."
+  },
+  "organisms.create-treatment-modal.components.region-table.note": {
+    "defaultMessage": "Bemerkung"
+  },
+  "organisms.create-treatment-modal.components.region-table.title": {
+    "defaultMessage": "Region"
+  },
+  "organisms.create-treatment-modal.components.region-table.treatment": {
+    "defaultMessage": "Beh."
+  },
+  "organisms.create-treatment-modal.components.rom-section.bodyF": {
+    "defaultMessage": "Körperf."
+  },
+  "organisms.create-treatment-modal.components.rom-section.bodyN": {
+    "defaultMessage": "Körpern."
+  },
+  "organisms.create-treatment-modal.components.rom-section.joint": {
+    "defaultMessage": "Gelenk"
+  },
+  "organisms.create-treatment-modal.components.rom-section.left": {
+    "defaultMessage": "Links"
+  },
+  "organisms.create-treatment-modal.components.rom-section.right": {
+    "defaultMessage": "Rechts"
+  },
+  "organisms.create-treatment-modal.components.rom-section.rom": {
+    "defaultMessage": "ROM nach Neutral-Null"
+  },
+  "organisms.create-treatment-modal.components.rom-section.skin": {
+    "defaultMessage": "Neutrals."
+  },
+  "organisms.create-treatment-modal.components.rom-section.test": {
+    "defaultMessage": "Test"
+  },
+  "organisms.create-treatment-modal.components.rom-section.treatment": {
+    "defaultMessage": "Behandlung"
+  },
+  "organisms.create-treatment-modal.components.screening-table.left": {
+    "defaultMessage": "Links"
+  },
+  "organisms.create-treatment-modal.components.screening-table.right": {
+    "defaultMessage": "Rechts"
+  },
+  "organisms.create-treatment-modal.components.screening-table.screening": {
+    "defaultMessage": "Screening"
+  },
+  "organisms.create-treatment-modal.components.screening-table.title": {
+    "defaultMessage": "Screening"
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.local": {
+    "defaultMessage": "Lokal."
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.pressurePain": {
+    "defaultMessage": "Druckschmerz"
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.region": {
+    "defaultMessage": "Region"
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.side": {
+    "defaultMessage": "Seite"
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.skin": {
+    "defaultMessage": "Hautb."
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.softTissueResults": {
+    "defaultMessage": "Weichteilbefund"
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.tempL": {
+    "defaultMessage": "Temp. L."
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.tempR": {
+    "defaultMessage": "Temp. R."
+  },
+  "organisms.create-treatment-modal.components.soft-tissue-results-section.tonus": {
+    "defaultMessage": "Tonus"
+  },
+  "organisms.create-treatment-modal.components.treatment-radio-group.injuryRelated": {
+    "defaultMessage": "Verletzungsbezogen"
+  },
+  "organisms.create-treatment-modal.components.treatment-radio-group.label": {
+    "defaultMessage": "Behandlung"
+  },
+  "organisms.create-treatment-modal.components.treatment-radio-group.preventive": {
+    "defaultMessage": "Präventiv"
+  },
+  "organisms.create-treatment-modal.components.vas-section.after": {
+    "defaultMessage": "Nach Beh."
+  },
+  "organisms.create-treatment-modal.components.vas-section.before": {
+    "defaultMessage": "Vor Beh."
+  },
+  "organisms.create-treatment-modal.components.vas-section.label": {
+    "defaultMessage": "VAS ({label})"
+  },
+  "organisms.create-treatment-modal.components.vas-section.placeholder": {
+    "defaultMessage": "VAS ({label}) eingeben"
+  },
+  "organisms.create-treatment-modal.components.vas-section.rest": {
+    "defaultMessage": "Ruhe"
+  },
+  "organisms.create-treatment-modal.components.vas-section.strain": {
+    "defaultMessage": "Belastung/Prov."
+  },
+  "organisms.create-treatment-modal.components.vas-section.vas": {
+    "defaultMessage": "VAS"
+  },
+  "organisms.create-treatment-modal.title": {
+    "defaultMessage": "Behandlung",
+    "description": "title of the create-treatment modal"
+  },
+  "organisms.edit-exercise-modal.ageGroups": {
+    "defaultMessage": "Altersbereiche"
+  },
+  "organisms.edit-exercise-modal.bestPractice": {
+    "defaultMessage": "Best Practice Übung"
+  },
+  "organisms.edit-exercise-modal.created": {
+    "defaultMessage": "Neue Übung wurde erfolgreich erstellt."
+  },
+  "organisms.edit-exercise-modal.creatingError": {
+    "defaultMessage": "Übung kann nicht erstellt werden, da der Titel nicht eindeutig ist."
+  },
+  "organisms.edit-exercise-modal.creator": {
+    "defaultMessage": "Autor"
+  },
+  "organisms.edit-exercise-modal.description": {
+    "defaultMessage": "Beschreibung"
+  },
+  "organisms.edit-exercise-modal.duration": {
+    "defaultMessage": "Dauer"
+  },
+  "organisms.edit-exercise-modal.edited": {
+    "defaultMessage": "Übung wurde erfolgreich bearbeitet."
+  },
+  "organisms.edit-exercise-modal.editingError": {
+    "defaultMessage": "Beim Bearbeiten der Übung ist leider ein Fehler aufgetreten."
+  },
+  "organisms.edit-exercise-modal.exercise": {
+    "defaultMessage": "Übung"
+  },
+  "organisms.edit-exercise-modal.files": {
+    "defaultMessage": "Dateien"
+  },
+  "organisms.edit-exercise-modal.removed": {
+    "defaultMessage": "Übung wurde erfolgreich gelöscht."
+  },
+  "organisms.edit-exercise-modal.saveAs": {
+    "defaultMessage": "Als neue Übung speichern"
+  },
+  "organisms.edit-exercise-modal.titleLabel": {
+    "defaultMessage": "Titel"
+  },
+  "organisms.edit-exercise-modal.titlePlaceholder": {
+    "defaultMessage": "Eindeutiger Titel"
+  },
+  "organisms.edit-exercise-modal.uploadImage": {
+    "defaultMessage": "Bild hochladen"
+  },
+  "organisms.event-card.homeGame": {
+    "defaultMessage": "Heimspiel",
+    "description": "home game title"
+  },
+  "organisms.event-card.roadGame": {
+    "defaultMessage": "{title,select,false{Auswärtsspiel} other{Auswärtsspiel: {title}}}",
+    "description": "road game title"
+  },
+  "organisms.event-card.tournament": {
+    "defaultMessage": "{title,select,false{Turnier} other{Turnier: {title}}}",
+    "description": "tournament title"
+  },
+  "organisms.event-card.training": {
+    "defaultMessage": "Training",
+    "description": "training title"
+  },
+  "organisms.event-participants-modal.availablePlayers": {
+    "defaultMessage": "Verfügbare Spieler",
+    "description": "Quick select all available and non-injuired players"
+  },
+  "organisms.event-participants-modal.deselect": {
+    "defaultMessage": "Keinen auswählen",
+    "description": "Deselect all players"
+  },
+  "organisms.event-participants-modal.lastTraining": {
+    "defaultMessage": "Letztes Training",
+    "description": "Quick select all players which participated in the latest training"
+  },
+  "organisms.event-participants-modal.selectAll": {
+    "defaultMessage": "Alle auswählen",
+    "description": "Quick select all available players"
+  },
+  "organisms.event-participants-modal.title": {
+    "defaultMessage": "Teilnehmer: {title}"
+  },
+  "organisms.exercise-details-modal.addExercise": {
+    "defaultMessage": "Übung hinzufügen"
+  },
+  "organisms.exercise-details-modal.files": {
+    "defaultMessage": "Dateien"
+  },
+  "organisms.exercise-details-modal.philosophyExercise": {
+    "defaultMessage": "Philosophie Übung"
+  },
+  "organisms.exercise-sidebar.header.filter": {
+    "defaultMessage": "Filtern"
+  },
+  "organisms.exercise-sidebar.header.searchPlaceholder": {
+    "defaultMessage": "Übungen durchsuchen"
+  },
+  "organisms.exercise-sidebar.table.documents": {
+    "defaultMessage": "Dokumente"
+  },
+  "organisms.exercise-sidebar.table.duration": {
+    "defaultMessage": "Dauer"
+  },
+  "organisms.exercise-sidebar.table.focus": {
+    "defaultMessage": "Fokus"
+  },
+  "organisms.exercise-sidebar.table.sketch": {
+    "defaultMessage": "Skizze"
+  },
+  "organisms.exercise-sidebar.table.title": {
+    "defaultMessage": "Titel"
+  },
+  "organisms.reload-prompt.cancel": {
+    "defaultMessage": "Abbrechen",
+    "description": "cancel cta"
+  },
+  "organisms.reload-prompt.content": {
+    "defaultMessage": "Wir haben Neuigkeiten für Sie. Klicken Sie auf Aktualisieren, um die Aktualisierungen zu übernehmen.",
+    "description": "tell users to refresh the web-app to apply content updates"
+  },
+  "organisms.reload-prompt.refresh": {
+    "defaultMessage": "Aktualisieren",
+    "description": "refresh cta"
+  },
+  "organisms.reload-prompt.title": {
+    "defaultMessage": "Neue Inhalte verfügbar",
+    "description": "content updates title"
+  },
+  "pages.diagnostics-speed.loadingError": {
+    "defaultMessage": "Was not able to load speed tests. Try again later."
+  },
+  "pages.diagnostics-speed.pageTitle": {
+    "defaultMessage": "Diagnostik",
+    "description": "title of the page"
+  },
+  "pages.diagnostics-speed.speed-table.10meters": {
+    "defaultMessage": "10m"
+  },
+  "pages.diagnostics-speed.speed-table.15meters": {
+    "defaultMessage": "15m"
+  },
+  "pages.diagnostics-speed.speed-table.20meters": {
+    "defaultMessage": "20m"
+  },
+  "pages.diagnostics-speed.speed-table.25meters": {
+    "defaultMessage": "25m"
+  },
+  "pages.diagnostics-speed.speed-table.30meters": {
+    "defaultMessage": "30m"
+  },
+  "pages.diagnostics-speed.speed-table.5meters": {
+    "defaultMessage": "5m"
+  },
+  "pages.diagnostics-speed.speed-table.date": {
+    "defaultMessage": "Datum"
+  },
+  "pages.diagnostics-speed.speed-table.dob": {
+    "defaultMessage": "Geb"
+  },
+  "pages.diagnostics-speed.speed-table.kilometersPerHour": {
+    "defaultMessage": "km/h"
+  },
+  "pages.diagnostics-speed.speed-table.photoOf": {
+    "defaultMessage": "Photo von {player}"
+  },
+  "pages.diagnostics-speed.speed-table.player": {
+    "defaultMessage": "Spieler"
+  },
+  "pages.diagnostics-speed.speed-table.rank": {
+    "defaultMessage": "Rang"
+  },
+  "pages.diagnostics-speed.speed-table.secondsShort": {
+    "defaultMessage": "s"
+  },
+  "pages.diagnostics-speed.speed-table.topSpeed": {
+    "defaultMessage": "Top Speed"
+  },
+  "pages.diagnostics-speed.speed-table.value": {
+    "defaultMessage": "Wert"
+  },
+  "pages.exercises.addExercise": {
+    "defaultMessage": "Übung hinzufügen",
+    "description": "cta to add exercises"
+  },
+  "pages.exercises.components.exercise-table.block": {
+    "defaultMessage": "Baustein"
+  },
+  "pages.exercises.components.exercise-table.creator": {
+    "defaultMessage": "Autor"
+  },
+  "pages.exercises.components.exercise-table.description": {
+    "defaultMessage": "Beschreibung"
+  },
+  "pages.exercises.components.exercise-table.documents": {
+    "defaultMessage": "Dok."
+  },
+  "pages.exercises.components.exercise-table.duration": {
+    "defaultMessage": "Dauer"
+  },
+  "pages.exercises.components.exercise-table.focus": {
+    "defaultMessage": "Fokus"
+  },
+  "pages.exercises.components.exercise-table.phase": {
+    "defaultMessage": "Spielphase"
+  },
+  "pages.exercises.components.exercise-table.scope": {
+    "defaultMessage": "M/G/I"
+  },
+  "pages.exercises.components.exercise-table.sketch": {
+    "defaultMessage": "Skizze"
+  },
+  "pages.exercises.components.exercise-table.subCharacteristic": {
+    "defaultMessage": "Submerkmal"
+  },
+  "pages.exercises.components.exercise-table.title": {
+    "defaultMessage": "Titel"
+  },
+  "pages.exercises.components.exercise-table.uses": {
+    "defaultMessage": "Häufig."
+  },
+  "pages.exercises.pageTitle": {
+    "defaultMessage": "Übungen",
+    "description": "title of the page"
+  },
+  "pages.exercises.searchPlaceholder": {
+    "defaultMessage": "Übungen durchsuchen..."
+  },
+  "pages.goal-keeper-training.addEvent": {
+    "defaultMessage": "Ereignis hinzufügen",
+    "description": "cta to add an event"
+  },
+  "pages.goal-keeper-training.pageTitle": {
+    "defaultMessage": "Torhüter",
+    "description": "title of the page"
+  },
+  "pages.home-page.components.joint": {
+    "defaultMessage": "Gelenk"
+  },
+  "pages.home-page.components.left": {
+    "defaultMessage": "Links"
+  },
+  "pages.home-page.components.right": {
+    "defaultMessage": "Rechts"
+  },
+  "pages.home-page.components.screening": {
+    "defaultMessage": "Screening"
+  },
+  "pages.home-page.components.test": {
+    "defaultMessage": "Test"
+  },
+  "pages.manage-players.addPlayer": {
+    "defaultMessage": "Spieler hinzufügen"
+  },
+  "pages.manage-players.exportPlayer": {
+    "defaultMessage": "Spieler exportieren"
+  },
+  "pages.manage-players.pageTitle": {
+    "defaultMessage": "Manage Players",
+    "description": "title of the page"
+  },
+  "pages.manage-players.table.dateOfBirth": {
+    "defaultMessage": "Geburtstag"
+  },
+  "pages.manage-players.table.id": {
+    "defaultMessage": "ID"
+  },
+  "pages.manage-players.table.name": {
+    "defaultMessage": "Name"
+  },
+  "pages.manage-players.table.nationality": {
+    "defaultMessage": "Nationalität"
+  },
+  "pages.manage-players.table.position": {
+    "defaultMessage": "Position"
+  },
+  "pages.manage-players.table.teams": {
+    "defaultMessage": "Teams"
+  },
+  "pages.medicine-page.pageTitle": {
+    "defaultMessage": "Medizin",
+    "description": "title of the page"
+  },
+  "pages.medicine.medicine-grid.athlete": {
+    "defaultMessage": "Spieler"
+  },
+  "pages.medicine.medicine-grid.diagnosis": {
+    "defaultMessage": "Diagnose"
+  },
+  "pages.medicine.medicine-grid.duration": {
+    "defaultMessage": "Dauer"
+  },
+  "pages.medicine.medicine-grid.note": {
+    "defaultMessage": "Bemerkung"
+  },
+  "pages.training-and-game-plan.pageTitle": {
+    "defaultMessage": "Trainings- und Spielplan",
+    "description": "title of the page"
+  },
+  "pages.training-and-game-plan.pdf": {
+    "defaultMessage": "PDF"
+  },
+  "pages.training-and-game-plan.time": {
+    "defaultMessage": "{startTime} - {endTime}"
+  },
+  "pages.training-modules.addTrainingModule": {
+    "defaultMessage": "Ausbildungsbaustein hinzufügen"
+  },
+  "pages.training-modules.pageTitle": {
+    "defaultMessage": "Ausbildungsbausteine",
+    "description": "title of the page"
+  },
+  "pages.training-modules.search": {
+    "defaultMessage": "Durchsuchen ..."
+  },
+  "pages.training-modules.table.description": {
+    "defaultMessage": "Prinzipien"
+  },
+  "pages.training-modules.table.focus": {
+    "defaultMessage": "Fokus"
+  },
+  "pages.training-modules.table.gamePhase": {
+    "defaultMessage": "Spielphase"
+  },
+  "pages.training-modules.table.name": {
+    "defaultMessage": "Baustein"
+  },
+  "pages.training-modules.table.scope": {
+    "defaultMessage": "M/G/I"
+  },
+  "pages.training-modules.table.subName": {
+    "defaultMessage": "Submerkmal"
+  },
+  "pages.training-modules.table.teams": {
+    "defaultMessage": "Teams"
+  },
+  "pages.trainings-plan.exercises": {
+    "defaultMessage": "Übungen"
+  },
+  "pages.trainings-plan.homeGame": {
+    "defaultMessage": "Heimspiel"
+  },
+  "pages.trainings-plan.loadingError": {
+    "defaultMessage": "Was not able to load events. Try again later."
+  },
+  "pages.trainings-plan.other": {
+    "defaultMessage": "Sonstiges"
+  },
+  "pages.trainings-plan.pageTitle": {
+    "defaultMessage": "Trainingsplan",
+    "description": "title of the page"
+  },
+  "pages.trainings-plan.roadGame": {
+    "defaultMessage": "Auswärtsspiel"
+  },
+  "pages.trainings-plan.tournament": {
+    "defaultMessage": "Turnier"
+  },
+  "pages.trainings-plan.training": {
+    "defaultMessage": "Training"
+  }
+}

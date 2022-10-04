@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateCyclePicker should match the snapshot 1`] = `
+<div>
+  <div
+    class="border border-gray-medium divide-x divide-gray-medium rounded inline-flex transition cursor-pointer hover:border-white hover:divide-white hover:bg-silver hover:shadow-md specific:divider-gray-light"
+  >
+    <button
+      aria-label="vorherige Woche"
+      class="w-[26px] transition-[border-color,color] text-gray-medium hover:text-gray-dark"
+    >
+      <div
+        class="fill-current w-[1em] h-[1em] inline-block text-lg"
+        data-icon="arrow_back_ios"
+      />
+    </button>
+    <div
+      class="flex items-center py-1 transition pl-1.5 pr-1.5"
+    >
+      <div
+        class="fill-current w-[1em] h-[1em] inline-block text-lg mr-1"
+        data-icon="date_range"
+      />
+      <input
+        aria-label="von"
+        class=" w-[75px] rounded-sm transition-[outline-color,background-color] bg-transparent font-bold text-center outline-transparent focus-visible:bg-silver focus-visible:outline focus-visible:outline-1 focus-visible:outline-gray-medium focus-visible:outline-offset-0 "
+        placeholder="TT.MM.JJJJ"
+        value="29.12.1969"
+      />
+      <div
+        class="w-3.5 flex justify-center items-center font-bold"
+      >
+        -
+      </div>
+      <input
+        aria-label="bis"
+        class=" w-[75px] rounded-sm transition-[outline-color,background-color] bg-transparent font-bold text-center outline-transparent focus-visible:bg-silver focus-visible:outline focus-visible:outline-1 focus-visible:outline-gray-medium focus-visible:outline-offset-0 "
+        placeholder="TT.MM.JJJJ"
+        value="04.01.1970"
+      />
+      <button
+        aria-label="Kalendar ein-/ausschalten"
+        class="transition text-gray-medium hover:text-gray-dark"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block text-2xl"
+          data-icon="arrow_drop_down"
+        />
+      </button>
+    </div>
+    <button
+      aria-label="nächste Woche"
+      class="w-[26px] transition-[border-color,color] text-gray-medium hover:text-gray-dark"
+    >
+      <div
+        class="fill-current w-[1em] h-[1em] inline-block text-lg rotate-180"
+        data-icon="arrow_back_ios"
+      />
+    </button>
+  </div>
+</div>
+`;

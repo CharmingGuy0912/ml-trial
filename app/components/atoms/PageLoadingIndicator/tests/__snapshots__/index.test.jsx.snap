@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageLoadingIndicator should match the snapshot 1`] = `
+<div
+  class="w-full h-full flex justify-center items-center"
+>
+  <div
+    class="animate-spin rounded-full w-8 h-8 border-4 border-primary/20 border-l-primary p-4 m-4"
+    role="status"
+  >
+    <span
+      class="sr-only"
+    >
+      Wird geladen...
+    </span>
+  </div>
+</div>
+`;

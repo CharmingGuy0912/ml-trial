@@ -1,0 +1,46 @@
+{
+  "roots": [
+    "<rootDir>/app"
+  ],
+  "setupFilesAfterEnv": ["<rootDir>/jest/jest.setup.js"],
+  "collectCoverageFrom": [
+    "app/**/*.{js,jsx}",
+    "!app/**/*.test.{js,jsx}",
+    "!app/**/tests/fixtures/*{js,jsx}",
+    "!app/**/modules/**/fixtures/*{js,jsx}",
+    "!app/**/stories/*",
+    "!app/config/*",
+    "!app/main.jsx",
+    "!app/*/*/*/Loadable.{js,jsx}",
+    "!app/utils/test-utils/*.{js,jsx}",
+    "!app/assets/*",
+    "!app/check-token.js"
+  ],
+  "coverageThreshold": {
+    "global": {
+      "statements": 90,
+      "branches": 80,
+      "functions": 90,
+      "lines": 90
+    }
+  },
+  "testEnvironment": "jsdom",
+  "testMatch": [
+    "<rootDir>/app/**/tests/**/*.test.{js,jsx}"
+  ],
+  "testEnvironmentOptions": {
+    "url": "http://localhost"
+  },
+  "transform": {
+    "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "babel-jest",
+    "^.+\\.svg$": "<rootDir>/jest/mocks/svg-mock.js",
+    "^.+\\.css$": "<rootDir>/jest/mocks/css-mock.js"
+  },
+  "transformIgnorePatterns": [
+    "<rootDir>/node_modules/(?!@react-dnd|react-dnd|react-dnd-html5-backend|dnd-core).+\\.(js|jsx|mjs|cjs|ts|tsx)$",
+    "^.+\\.module\\.(css|sass|scss)$"
+  ],
+  "moduleNameMapper": {
+    "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy"
+  }
+}

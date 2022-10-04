@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Bull';
+  src: url('assets/fonts/bull/Bull-Regular.woff2') format('woff2'),
+  url('assets/fonts/bull/Bull-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bull';
+  src: url('assets/fonts/bull/Bull-Bold.woff2') format('woff2'),
+  url('assets/fonts/bull/Bull-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bull Text';
+  src: url('assets/fonts/bull-text/BullText-Bold.woff2') format('woff2'),
+  url('assets/fonts/bull-text/BullText-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bull Text';
+  src: url('assets/fonts/bull-text/BullText-Regular.woff2') format('woff2'),
+  url('assets/fonts/bull-text/BullText-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura Com';
+  src: url('assets/fonts/futura-com/FuturaCom-BoldCondensed.woff2') format('woff2'),
+  url('assets/fonts/futura-com/FuturaCom-BoldCondensed.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  font-stretch: condensed;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+*:focus-visible {
+  @apply outline-dashed outline-primary outline-offset-1;
+}
+
+input::placeholder {
+  @apply text-gray-medium;
+}

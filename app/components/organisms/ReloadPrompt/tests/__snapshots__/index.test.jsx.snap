@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReloadPrompt should match the snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      Neue Inhalte verfügbar
+    </div>
+    <div>
+      Wir haben Neuigkeiten für Sie. Klicken Sie auf Aktualisieren, um die Aktualisierungen zu übernehmen.
+    </div>
+    <div>
+      <button
+        class="inline-flex justify-center gap-1 font-button-text items-center transition focus-visible:outline-dashed focus-visible:outline-primary focus-visible:outline-offset-1 disabled:pointer-events-none specificity-up:bg-blue-100 min-h-[28px] min-w-[28px] text-white relative overflow-hidden isolate before:bg-gray-dark before:absolute before:inset-0 before:z-[-1] before:opacity-0 before:transition-opacity hover:shadow-md hover:before:opacity-100 disabled:bg-gray-medium disabled:bg-none disabled:text-gray-light disabled:shadow-none shadow bg-gradient-to-l bg-gradient-primary rounded px-3 py-[0.4375rem] "
+        type="button"
+      >
+        Aktualisieren
+      </button>
+      <button
+        class="inline-flex justify-center gap-1 font-button-text items-center transition focus-visible:outline-dashed focus-visible:outline-primary focus-visible:outline-offset-1 disabled:pointer-events-none specificity-up:bg-blue-100 min-h-[28px] min-w-[28px] text-gray-dark border border-gray-medium hover:shadow-md hover:bg-silver hover:border-white disabled:text-gray-medium bg-transparent rounded px-3 py-1.5"
+        type="button"
+      >
+        Abbrechen
+      </button>
+    </div>
+  </div>
+</div>
+`;

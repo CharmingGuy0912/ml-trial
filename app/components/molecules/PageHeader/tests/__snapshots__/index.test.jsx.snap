@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageHeader should match the snapshot 1`] = `
+<div
+  class="grid grid-cols-3 items-center px-6 py-4 bg-gradient-to-b bg-gradient-silver shadow"
+>
+  <div
+    class="flex items-center"
+  >
+    <h1
+      class="shrink-0 grow-0 mr-3 font-page-heading text-primary"
+    >
+      Title
+    </h1>
+    left
+  </div>
+  <div
+    class="justify-self-center"
+  >
+    center
+  </div>
+  <div
+    class="justify-self-end"
+  >
+    right
+  </div>
+</div>
+`;

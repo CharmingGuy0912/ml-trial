@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrainingPlan should match the snapshot 1`] = `
+<div>
+  <div
+    class="Toastify"
+  />
+  <div
+    class="h-full flex flex-col"
+  >
+    <div
+      class="grid grid-cols-3 items-center px-6 py-4 bg-gradient-to-b bg-gradient-silver shadow relative z-20"
+    >
+      <div
+        class="flex items-center"
+      >
+        <h1
+          class="shrink-0 grow-0 mr-3 font-page-heading text-primary"
+        >
+          Trainingsplan
+        </h1>
+      </div>
+      <div
+        class="justify-self-center"
+      />
+      <div
+        class="justify-self-end"
+      />
+    </div>
+    <div
+      class="grow overflow-auto"
+    >
+      <h2
+        class="font-heading-large"
+      >
+        Have fun :)!
+      </h2>
+    </div>
+  </div>
+</div>
+`;

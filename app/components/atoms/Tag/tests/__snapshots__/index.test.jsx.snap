@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag should match the snapshot 1`] = `
+<div
+  class="border-[1px] rounded p-1.5 pt-0.5 pb-px inline-flex items-center gap-0.5 font-badge-text bg-gray-light border-gray-medium"
+>
+  Tag Text
+</div>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationMenu should match the snapshot 1`] = `
+<body>
+  <div>
+    <button>
+      menuButton
+    </button>
+  </div>
+  <div
+    class="szh-menu-container szh-menu-container--itemTransition"
+    style="position: relative;"
+  >
+    <ul
+      aria-label="Menu"
+      class="szh-menu szh-menu--state-opening szh-menu--dir-bottom shadow bg-white px-1.5 py-2.5 border-0 rounded-bl min-w-[134px] space-y-1 slideReverse"
+      role="menu"
+      style="margin: 0px; position: absolute; left: 0px; top: 0px;"
+      tabindex="-1"
+    >
+      <div
+        style="position: absolute; left: 0px; top: 0px;"
+        tabindex="-1"
+      />
+      <li
+        class="szh-menu__item font-bold text-[11px] leading-[13px] rounded transition-colors motion-reduce:transition-none focus:bg-red text-primary"
+        role="menuitem"
+        tabindex="-1"
+      >
+        <a
+          class="block px-1.5 py-[3px] active"
+          href="/"
+        >
+          navigationMenuItem
+        </a>
+      </li>
+    </ul>
+  </div>
+</body>
+`;

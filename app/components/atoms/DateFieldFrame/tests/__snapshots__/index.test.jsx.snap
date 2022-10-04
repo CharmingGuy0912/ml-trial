@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateFieldFrame should match the snapshot 1`] = `
+<div
+  class="border border-gray-medium divide-x divide-gray-medium rounded inline-flex transition cursor-pointer hover:border-white hover:divide-white hover:bg-silver hover:shadow-md specific:divider-gray-light"
+>
+  <div
+    class="flex items-center py-1 transition pl-3 pr-2"
+  >
+    <div
+      class="fill-current w-[1em] h-[1em] inline-block text-lg mr-1"
+      data-icon="date_range"
+    />
+    <button
+      aria-label="Kalendar ein-/ausschalten"
+      class="transition text-gray-medium hover:text-gray-dark"
+    >
+      <div
+        class="fill-current w-[1em] h-[1em] inline-block text-2xl"
+        data-icon="arrow_drop_down"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`DateFieldFrame should match the snapshot 2`] = `
+<div
+  class="border border-gray-medium divide-x divide-gray-medium rounded inline-flex transition cursor-pointer hover:border-white hover:divide-white hover:bg-silver hover:shadow-md specific:divider-gray-light specific:border-white specific:divide-gray-light specific:bg-white specific:shadow specific:rounded-b-none"
+>
+  <div
+    class="flex items-center py-1 transition pl-3 pr-2"
+  >
+    <div
+      class="fill-current w-[1em] h-[1em] inline-block text-lg mr-1"
+      data-icon="date_range"
+    />
+    <button
+      aria-label="Kalendar ein-/ausschalten"
+      class="transition text-gray-medium hover:text-gray-dark"
+    >
+      <div
+        class="fill-current w-[1em] h-[1em] inline-block text-2xl -rotate-180"
+        data-icon="arrow_drop_down"
+      />
+    </button>
+  </div>
+</div>
+`;

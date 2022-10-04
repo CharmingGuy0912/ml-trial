@@ -1,0 +1,406 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComboBox isMulti should match the snapshot 1`] = `
+<div
+  class="text-base w-full css-b62m3t-container"
+>
+  <span
+    class="css-1f43avz-a11yText-A11yText"
+    id="react-select-5-live-region"
+  />
+  <span
+    aria-atomic="false"
+    aria-live="polite"
+    aria-relevant="additions text"
+    class="css-1f43avz-a11yText-A11yText"
+  />
+  <div
+    class="!min-h-0 !rounded-1 !transition-shadow pl-3 gap-1.5 !bg-transparent !border-gray-medium hover:!border-surface hover:!bg-silver hover:!shadow-md !rounded-b-none h-[28px] pl-2.5 css-1s2u09g-control"
+  >
+    <div
+      class="!py-0 !px-0 h-fit css-319lph-ValueContainer"
+    >
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-1pndypt-Input"
+        data-value="O"
+      >
+        <input
+          aria-autocomplete="list"
+          aria-controls="react-select-5-listbox"
+          aria-describedby="react-select-5-placeholder"
+          aria-expanded="true"
+          aria-haspopup="true"
+          aria-owns="react-select-5-listbox"
+          autocapitalize="none"
+          autocomplete="off"
+          autocorrect="off"
+          class=""
+          id="react-select-5-input"
+          role="combobox"
+          spellcheck="false"
+          style="opacity: 1; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+          tabindex="0"
+          type="text"
+          value="O"
+        />
+      </div>
+    </div>
+    <div
+      class="h-5 m-auto css-1hb7zxy-IndicatorsContainer"
+    >
+      <div
+        aria-hidden="true"
+        class="text-2xl !px-3 !py-1 !text-gray-medium rotate-180 css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="arrow_drop_down"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="!m-0 !rounded-t-none !shadow css-26l3qy-menu"
+    id="react-select-5-listbox"
+  >
+    <div
+      class="!p-0 css-4ljt47-MenuList"
+    >
+      <div
+        aria-disabled="false"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b !bg-silver !text-gray-dark css-1n7v3ny-option"
+        id="react-select-5-option-0"
+        tabindex="-1"
+      >
+        Option #1
+      </div>
+      <div
+        aria-disabled="true"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b !text-gray-medium css-165luzk-option"
+        id="react-select-5-option-1"
+        tabindex="-1"
+      >
+        Option #2
+      </div>
+      <div
+        aria-disabled="false"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b css-yt9ioa-option"
+        id="react-select-5-option-2"
+        tabindex="-1"
+      >
+        Option #3
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ComboBox isMulti should match the snapshot if an option has been selected 1`] = `
+<div
+  class="text-base w-full css-b62m3t-container"
+>
+  <span
+    class="css-1f43avz-a11yText-A11yText"
+    id="react-select-6-live-region"
+  />
+  <span
+    aria-atomic="false"
+    aria-live="polite"
+    aria-relevant="additions text"
+    class="css-1f43avz-a11yText-A11yText"
+  />
+  <div
+    class="!min-h-0 !rounded-1 !transition-shadow pl-3 gap-1.5 !bg-transparent !border-gray-medium hover:!border-surface hover:!bg-silver hover:!shadow-md h-[28px] pl-2.5 css-1s2u09g-control"
+  >
+    <div
+      class="!py-0 !px-0 h-fit css-g1d714-ValueContainer"
+    >
+      <div
+        class="css-1rhbuit-multiValue h-[18px] !bg-transparent border border-gray-medium !rounded !ml-0 !mr-[3px] !my-0"
+      >
+        <div
+          class="css-12jo7m5 px-[5px] !py-0 inline-flex items-center"
+        >
+          Option #1
+        </div>
+        <div
+          aria-label="Remove Option #1"
+          class="css-xb97g8 hover:!bg-transparent !pl-0 text-gray-medium hover:!text-gray-dark/50"
+          role="button"
+        >
+          <div
+            class="fill-current w-[1em] h-[1em] inline-block"
+            data-icon="close"
+          />
+        </div>
+      </div>
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-6j8wv5-Input"
+        data-value=""
+      >
+        <input
+          aria-autocomplete="list"
+          aria-expanded="false"
+          aria-haspopup="true"
+          autocapitalize="none"
+          autocomplete="off"
+          autocorrect="off"
+          class=""
+          id="react-select-6-input"
+          role="combobox"
+          spellcheck="false"
+          style="opacity: 1; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+          tabindex="0"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      class="h-5 m-auto css-1hb7zxy-IndicatorsContainer"
+    >
+      <div
+        aria-hidden="true"
+        class="text-2xl !py-1 text-gray-medium hover:!text-gray-dark/50 hover:cursor-pointer !px-0 css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="close"
+        />
+      </div>
+      <div
+        aria-hidden="true"
+        class="text-2xl !px-3 !py-1 !text-gray-medium css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="arrow_drop_down"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ComboBox should match the snapshot 1`] = `
+<div
+  class="text-base w-full css-b62m3t-container"
+>
+  <span
+    class="css-1f43avz-a11yText-A11yText"
+    id="react-select-2-live-region"
+  />
+  <span
+    aria-atomic="false"
+    aria-live="polite"
+    aria-relevant="additions text"
+    class="css-1f43avz-a11yText-A11yText"
+  />
+  <div
+    class="!min-h-0 !rounded-1 !transition-shadow pl-3 gap-1.5 !bg-transparent !border-gray-medium hover:!border-surface hover:!bg-silver hover:!shadow-md css-1s2u09g-control"
+  >
+    <div
+      class="!py-0 !px-0 css-319lph-ValueContainer"
+    >
+      <div
+        class="!m-0 specific:text-gray-medium line-clamp-1 css-14el2xx-placeholder"
+        id="react-select-2-placeholder"
+      />
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-6j8wv5-Input"
+        data-value=""
+      >
+        <input
+          aria-autocomplete="list"
+          aria-describedby="react-select-2-placeholder"
+          aria-expanded="false"
+          aria-haspopup="true"
+          autocapitalize="none"
+          autocomplete="off"
+          autocorrect="off"
+          class=""
+          id="react-select-2-input"
+          role="combobox"
+          spellcheck="false"
+          style="opacity: 1; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+          tabindex="0"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      class=" css-1hb7zxy-IndicatorsContainer"
+    >
+      <div
+        aria-hidden="true"
+        class="text-2xl !px-3 !py-1 !text-gray-medium css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="arrow_drop_down"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ComboBox should match the snapshot if an option has been selected 1`] = `
+<div
+  class="text-base w-full css-b62m3t-container"
+>
+  <span
+    class="css-1f43avz-a11yText-A11yText"
+    id="react-select-4-live-region"
+  />
+  <span
+    aria-atomic="false"
+    aria-live="polite"
+    aria-relevant="additions text"
+    class="css-1f43avz-a11yText-A11yText"
+  />
+  <div
+    class="!min-h-0 !rounded-1 !transition-shadow pl-3 gap-1.5 !bg-transparent !border-gray-medium hover:!border-surface hover:!bg-silver hover:!shadow-md css-1s2u09g-control"
+  >
+    <div
+      class="!py-0 !px-0 css-319lph-ValueContainer"
+    >
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-qc6sy-singleValue"
+      >
+        Option #1
+      </div>
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-6j8wv5-Input"
+        data-value=""
+      >
+        <input
+          aria-autocomplete="list"
+          aria-expanded="false"
+          aria-haspopup="true"
+          autocapitalize="none"
+          autocomplete="off"
+          autocorrect="off"
+          class=""
+          id="react-select-4-input"
+          role="combobox"
+          spellcheck="false"
+          style="opacity: 0; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+          tabindex="0"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      class=" css-1hb7zxy-IndicatorsContainer"
+    >
+      <div
+        aria-hidden="true"
+        class="text-2xl !px-3 !py-1 !text-gray-medium css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="arrow_drop_down"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ComboBox should match the snapshot if the menu is open 1`] = `
+<div
+  class="text-base w-full css-b62m3t-container"
+>
+  <span
+    class="css-1f43avz-a11yText-A11yText"
+    id="react-select-3-live-region"
+  />
+  <span
+    aria-atomic="false"
+    aria-live="polite"
+    aria-relevant="additions text"
+    class="css-1f43avz-a11yText-A11yText"
+  />
+  <div
+    class="!min-h-0 !rounded-1 !transition-shadow pl-3 gap-1.5 !bg-transparent !border-gray-medium hover:!border-surface hover:!bg-silver hover:!shadow-md !rounded-b-none css-1s2u09g-control"
+  >
+    <div
+      class="!py-0 !px-0 css-319lph-ValueContainer"
+    >
+      <div
+        class="!m-0 !p-0 !text-gray-dark css-1pndypt-Input"
+        data-value="O"
+      >
+        <input
+          aria-autocomplete="list"
+          aria-controls="react-select-3-listbox"
+          aria-describedby="react-select-3-placeholder"
+          aria-expanded="true"
+          aria-haspopup="true"
+          aria-owns="react-select-3-listbox"
+          autocapitalize="none"
+          autocomplete="off"
+          autocorrect="off"
+          class=""
+          id="react-select-3-input"
+          role="combobox"
+          spellcheck="false"
+          style="opacity: 1; width: 100%; grid-area: 1 / 2; min-width: 2px; border: 0px; margin: 0px; outline: 0; padding: 0px;"
+          tabindex="0"
+          type="text"
+          value="O"
+        />
+      </div>
+    </div>
+    <div
+      class=" css-1hb7zxy-IndicatorsContainer"
+    >
+      <div
+        aria-hidden="true"
+        class="text-2xl !px-3 !py-1 !text-gray-medium rotate-180 css-tlfecz-indicatorContainer"
+      >
+        <div
+          class="fill-current w-[1em] h-[1em] inline-block"
+          data-icon="arrow_drop_down"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="!m-0 !rounded-t-none !shadow css-26l3qy-menu"
+    id="react-select-3-listbox"
+  >
+    <div
+      class="!p-0 css-4ljt47-MenuList"
+    >
+      <div
+        aria-disabled="false"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b !bg-silver !text-gray-dark css-1n7v3ny-option"
+        id="react-select-3-option-0"
+        tabindex="-1"
+      >
+        Option #1
+      </div>
+      <div
+        aria-disabled="true"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b !text-gray-medium css-165luzk-option"
+        id="react-select-3-option-1"
+        tabindex="-1"
+      >
+        Option #2
+      </div>
+      <div
+        aria-disabled="false"
+        class="!py-1.5 !px-3 border-b border-b-divider/30 last:border-b-0 last:rounded-b css-yt9ioa-option"
+        id="react-select-3-option-2"
+        tabindex="-1"
+      >
+        Option #3
+      </div>
+    </div>
+  </div>
+</div>
+`;

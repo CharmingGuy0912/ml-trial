@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateCyclePicker Input should match the snapshot 1`] = `
+<input
+  class=" w-[75px] rounded-sm transition-[outline-color,background-color] bg-transparent font-bold text-center outline-transparent focus-visible:bg-silver focus-visible:outline focus-visible:outline-1 focus-visible:outline-gray-medium focus-visible:outline-offset-0 "
+  placeholder="TT.MM.JJJJ"
+  value="01.01.1970"
+/>
+`;

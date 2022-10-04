@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage should match the snapshot 1`] = `
+<div
+  class="flex-1 flex flex-col justify-start p-6 bg-gradient-to-b bg-gradient-gray"
+>
+  <div
+    class="mb-6"
+  >
+    <h2
+      class="font-heading-large mb-1"
+    >
+      Components you'll need:
+    </h2>
+    <div
+      class="mb-1"
+    >
+      <div>
+        <div
+          class="border border-gray-medium divide-x divide-gray-medium rounded inline-flex transition cursor-pointer hover:border-white hover:divide-white hover:bg-silver hover:shadow-md specific:divider-gray-light"
+        >
+          <button
+            aria-label="vorherige Woche"
+            class="w-[26px] transition-[border-color,color] text-gray-medium hover:text-gray-dark"
+          >
+            <div
+              class="fill-current w-[1em] h-[1em] inline-block text-lg"
+              data-icon="arrow_back_ios"
+            />
+          </button>
+          <div
+            class="flex items-center py-1 transition pl-1.5 pr-1.5"
+          >
+            <div
+              class="fill-current w-[1em] h-[1em] inline-block text-lg mr-1"
+              data-icon="date_range"
+            />
+            <input
+              aria-label="von"
+              class=" w-[75px] rounded-sm transition-[outline-color,background-color] bg-transparent font-bold text-center outline-transparent focus-visible:bg-silver focus-visible:outline focus-visible:outline-1 focus-visible:outline-gray-medium focus-visible:outline-offset-0 "
+              placeholder="TT.MM.JJJJ"
+              value="21.03.2022"
+            />
+            <div
+              class="w-3.5 flex justify-center items-center font-bold"
+            >
+              -
+            </div>
+            <input
+              aria-label="bis"
+              class=" w-[75px] rounded-sm transition-[outline-color,background-color] bg-transparent font-bold text-center outline-transparent focus-visible:bg-silver focus-visible:outline focus-visible:outline-1 focus-visible:outline-gray-medium focus-visible:outline-offset-0 "
+              placeholder="TT.MM.JJJJ"
+              value="27.03.2022"
+            />
+            <button
+              aria-label="Kalendar ein-/ausschalten"
+              class="transition text-gray-medium hover:text-gray-dark"
+            >
+              <div
+                class="fill-current w-[1em] h-[1em] inline-block text-2xl"
+                data-icon="arrow_drop_down"
+              />
+            </button>
+          </div>
+          <button
+            aria-label="nächste Woche"
+            class="w-[26px] transition-[border-color,color] text-gray-medium hover:text-gray-dark"
+          >
+            <div
+              class="fill-current w-[1em] h-[1em] inline-block text-lg rotate-180"
+              data-icon="arrow_back_ios"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="mb-1"
+    >
+      <button
+        class="inline-flex justify-center gap-1 font-button-text items-center transition focus-visible:outline-dashed focus-visible:outline-primary focus-visible:outline-offset-1 disabled:pointer-events-none specificity-up:bg-blue-100 min-h-[28px] min-w-[28px] text-white relative overflow-hidden isolate before:bg-gray-dark before:absolute before:inset-0 before:z-[-1] before:opacity-0 before:transition-opacity hover:shadow-md hover:before:opacity-100 disabled:bg-gray-medium disabled:bg-none disabled:text-gray-light disabled:shadow-none shadow bg-gradient-to-l bg-gradient-primary rounded px-3 py-[0.4375rem] "
+        type="button"
+      >
+        <div
+          class="flex text-lg"
+        >
+          <div
+            class="fill-current w-[1em] h-[1em] inline-block"
+            data-icon="save"
+          />
+        </div>
+        Save
+      </button>
+    </div>
+    <div
+      class="mb-1"
+    >
+      This is a message to show localization usage.
+    </div>
+  </div>
+  <div
+    class="mb-6"
+  >
+    <h2
+      class="font-heading-large mb-1"
+    >
+      Random example component:
+    </h2>
+    <div>
+      Counter
+    </div>
+  </div>
+</div>
+`;

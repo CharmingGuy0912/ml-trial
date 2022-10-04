@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation should match the snapshot 1`] = `
+<nav
+  class="flex justify-center flex-1 flex-col lg:flex-row z-10 pt-1 bg-gradient-to-l bg-gradient-primary"
+>
+  <div
+    class="flex justify-center overflow-hidden order-last lg:order-2"
+  >
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/training-plan"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Trainingsplan
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/training"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Training
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/games"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Games
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/medicine"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Medicine
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/diagnostics"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Diagnostics
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/team"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Team
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/philosophy"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Philosophy
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/asa"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        ASA
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+    <a
+      class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow"
+      href="/administration"
+      tabindex="0"
+    >
+      <div
+        class="flex items-center"
+      >
+        Administration
+      </div>
+      <div
+        class="relative"
+      >
+        <div
+          class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-0 translate-y-0.5"
+        />
+      </div>
+    </a>
+  </div>
+</nav>
+`;

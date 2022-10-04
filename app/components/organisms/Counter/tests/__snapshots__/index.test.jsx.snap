@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter should match the snapshot 1`] = `
+<div>
+  <p
+    class="flex gap-2"
+  >
+    <button
+      class="inline-flex justify-center gap-1 font-button-text items-center transition focus-visible:outline-dashed focus-visible:outline-primary focus-visible:outline-offset-1 disabled:pointer-events-none specificity-up:bg-blue-100 min-h-[28px] min-w-[28px] text-white relative overflow-hidden isolate before:bg-gray-dark before:absolute before:inset-0 before:z-[-1] before:opacity-0 before:transition-opacity hover:shadow-md hover:before:opacity-100 disabled:bg-gray-medium disabled:bg-none disabled:text-gray-light disabled:shadow-none shadow bg-gradient-to-l bg-gradient-primary rounded px-3 py-[0.4375rem] "
+      type="button"
+    >
+      Zähler: 0
+    </button>
+    <button
+      class="inline-flex justify-center gap-1 font-button-text items-center transition focus-visible:outline-dashed focus-visible:outline-primary focus-visible:outline-offset-1 disabled:pointer-events-none specificity-up:bg-blue-100 min-h-[28px] min-w-[28px] text-white relative overflow-hidden isolate before:bg-gray-dark before:absolute before:inset-0 before:z-[-1] before:opacity-0 before:transition-opacity hover:shadow-md hover:before:opacity-100 disabled:bg-gray-medium disabled:bg-none disabled:text-gray-light disabled:shadow-none shadow bg-gradient-to-l bg-gradient-primary rounded px-3 py-[0.4375rem] "
+      type="button"
+    >
+      Zurücksetzen
+    </button>
+  </p>
+</div>
+`;

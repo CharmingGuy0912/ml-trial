@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationItem should match the snapshot 1`] = `
+<a
+  class="font-bold inline-flex flex-col transition motion-reduce:transition-none focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-inset text-[13px] leading-[15px] text-white px-3 pt-2.5 pb-[11px] rounded-t focus-visible:ring-white hover:text-primary hover:bg-white hover:shadow active"
+  href="/"
+  tabindex="0"
+>
+  <div
+    class="flex items-center"
+  >
+    Navigation Item
+  </div>
+  <div
+    class="relative"
+  >
+    <div
+      class="w-full absolute top h-[2px] left-0 right-0 top-0 rounded-full bg-current motion-reduce:transition-none transition-[opacity,transform] mt-px opacity-100 translate-y-0"
+    />
+  </div>
+</a>
+`;

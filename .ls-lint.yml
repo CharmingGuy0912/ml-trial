@@ -1,0 +1,21 @@
+ls:
+  app:
+    .js: kebab-case
+    .test.js: kebab-case
+    .stories.jsx: kebab-case
+    .jsx: PascalCase | kebab-case
+    .test.jsx: PascalCase | kebab-case
+    .json: kebab-case | regex:_[a-z0-9-]+
+    .html: kebab-case | regex:_[a-z0-9-]+
+    .dir: PascalCase | kebab-case | regex:__snapshots__ | regex:__mocks__
+
+ignore:
+  - coverage
+  - dist
+  - node_modules
+  - storybook
+  - storybook-static
+  - app/__mocks__
+  - .git
+  - .storybook
+  - .idea

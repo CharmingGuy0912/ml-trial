@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Theme should match the snapshot 1`] = `
+<style>
+  :root {
+        --colors-white: 255 255 255;
+--colors-silver: 243 245 246;
+--colors-gray-light: 229 231 231;
+--colors-gray-medium: 187 187 187;
+--colors-gray-dark: 33 33 33;
+--colors-red-light: 248 206 217;
+--colors-red-medium: 219 10 64;
+--colors-orange-light: 252 234 206;
+--colors-orange-medium: 242 148 10;
+--colors-yellow-light: 252 246 208;
+--colors-yellow-medium: 242 208 20;
+--colors-green-light: 229 240 223;
+--colors-green-medium: 124 180 94;
+--colors-emerald-light: 214 231 223;
+--colors-emerald-medium: 50 136 95;
+--colors-blue-light: 206 231 245;
+--colors-blue-medium: 10 134 203;
+--colors-blue-dark: 10 48 100;
+--colors-accent: 219 10 64;
+--colors-backdrop: 8 29 57;
+--colors-border: 33 33 33;
+--colors-primary: 10 48 100;
+--colors-background: 243 245 246;
+--colors-divider: 187 187 187;
+--colors-surface: 255 255 255;
+      }
+</style>
+`;
